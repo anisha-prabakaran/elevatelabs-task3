@@ -58,7 +58,7 @@ The dashboard provides:
 
 ---
 
-## 📂 Dataset Description (`sales.csv`)
+## 📂 Dataset Description (`sales dataset.csv`)
 
 | Column Name       | Description                            |
 |-------------------|----------------------------------------|
@@ -76,8 +76,8 @@ The dashboard provides:
 
 ## 📝 How to Use
 
-1. Open `Sales_Profit_Dashboard.pbix` in Power BI Desktop.
+1. Open `task 3.pbix` in Power BI Desktop.
 2. Review the visuals and interact using slicers.
-3. Read `Sales_Profit_Dashboard_Summary.pptx` for high-level presentation.
-4. Refer to `Sales_Profit_Dashboard.pdf` for a static overview of the visuals.
-5. Use `sales.csv` as input for future enhancements.
+3. Read `task 3 ppt.pptx` for high-level presentation.
+4. Refer to `task 3.pdf` for a static overview of the visuals.
+5. Use `sales dataset.csv` as input for future enhancements.
