@@ -4,6 +4,13 @@ This repository contains a comprehensive data visualization project built using 
 
 ---
 
+Internship Task – ElevateLabs | Task 3
+
+Tool Used: Microsoft Power BI
+
+
+----
+
 ## 📁 Project Files
 
 | File Name                         | Description                                                   |
